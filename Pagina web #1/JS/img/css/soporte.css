@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(135, 180, 223);
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:80px ;
+    margin-right: 80px;
+}
+h1{
+    background-color: rgb(72, 143, 209);
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-indent: 1em;
+    line-height: 200%;
+    text-shadow: 3px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+header{
+    margin: auto;
+ }
+ul{
+    margin-left: 1.30em;
+}
+.boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 6px;
+    position: relative;
+    top: 25px;
+    text-align: center;
+    background: salmon;
+    color: black;
+    text-decoration: none;
+    border-radius: 7px;
+ margin-bottom:1px;
+ margin-right: 100px;
+ 
+}
+header#hcontacto{
+    margin: auto;
+}
+header#hpreguntas{
+    margin: auto;
+}
+p#tcontacto{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.50em;
+    line-height: 200%;
+    text-shadow: 3px;
+    background-color: #53A8F7;
+}
+p#tpreguntas{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.50em;
+    line-height: 200%;
+    text-shadow: 3px;
+    background-color: #85C1B7;
+}
+ul#lista{
+    font-size: 1.22em;
+    margin-left:10px;
+    margin-right: 10px;
+    margin-top: 60px;
+}
+div#general{
+    margin:auto;
+    margin-top: 30px;
+    width: 1200px;
+    height: 645px;
+    background-color: rgb(135, 180, 223);
+}
+div#contacto{
+    width: 400px;
+    height: 550px;
+    background-color: rgb(100, 149, 237);
+    float: right;
+    border-radius: 15px;
+}
+div#preguntas{
+    width: 780px;
+    height: 550px;
+    background-color :#02667a;
+    float: left;
+    border-radius: 15px;
+}
+div#botones{
+    width: 1200px;
+    height: 70px;
+    background-color: rgb(72, 143, 209);
+    margin-bottom: 15px;
+    font-size: 1.25em;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+   
+   

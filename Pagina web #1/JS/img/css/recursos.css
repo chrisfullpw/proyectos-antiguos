@@ -1,0 +1,43 @@
+h1{
+    background-color: rgb(37, 37, 37);
+    color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+table{
+    background-color: rgb(141, 64, 64);
+    color: white;
+    font-size: 1.2em;
+    margin: auto;
+    border-radius: 10px;
+}
+td{
+    background-color: rgb(141, 64, 64);
+}
+strong{
+    background-color: rgb(141, 64, 64);
+}
+body{
+    background-color:#87B4DF;
+}
+
+.RH{
+    margin-left: 7em;
+    margin-right: 5em;   
+
+}
+.RT{
+    margin-left: 7em;
+    margin-right: 5em;
+}
+#bc{
+    background-color: #488FD1;
+    margin-left: 5em;
+    margin-right: 5em;
+    border-radius: 10px;
+}
+.boton{
+    margin-left: 10px;
+float: left;
+}

@@ -1,0 +1,73 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+body{
+    background-color: #87B4DF;
+    margin-left: 5em;
+    margin-right: 5em;
+    width: 1200px;
+    height: 900px;
+}
+
+header{
+    height: 7%;
+    background-color: #02667a;
+    border-radius: 1em;
+    margin: 1em;
+    margin-right: 7.3em;
+    color: black;
+    }
+nav{
+    height: 5%;
+    background-color: #02667a;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+    margin: 1em;
+    margin-right:5em;
+    border-radius: 0.5em;}
+    
+    
+footer{
+    height: 2%;
+    background-color: #02667a;
+    color: white;
+    margin: 1em;
+    margin-right: 7em;
+    border-radius: 1em;
+    
+    }
+main{
+    height: 50%;
+    background-color: #02667a;
+    color: white;
+    margin-right: 7em;
+    border-radius: 0.5em;
+}
+#DM{
+    margin-left: 15px;
+    width: 48%;
+    height: 100px;
+    float: left;
+    border: dashed 5px grey;
+    text-align: center;
+
+}
+#pagina{
+    margin-right: 15px;
+    float: right;
+    height: 100px;
+    width: 46%;
+    color: white;
+    text-align: center;
+    border: dashed 5px grey;
+}
+#escritorio{
+    margin: 2em;
+}
+
+.nu{
+    font-size: 1.2em;
+    margin: 1em;
+}
